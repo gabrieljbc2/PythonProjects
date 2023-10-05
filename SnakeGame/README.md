@@ -14,7 +14,7 @@ This repository contains a simple Snake Game implemented in Python using the Pyg
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-quote-generator.git
+   git clone https://github.com/gabrieljbc2/PythonProjects/tree/main/SnakeGame
    ```
 
 2. Remember install pygame with this code on the terminal "pip install pygame".
